@@ -1,10 +1,11 @@
 {
     "android": {
-        "versionCode": 11
-        "downloadUrl": "https://github.com/opl224/fitgo-updates/releases/tag/v1.1.1/FitGo.apk"
+        "versionCode": 12
+        "downloadUrl": "https://github.com/opl224/fitgo-updates/releases/tag/v1.1.2/fitgo.apk"
     }
 
 }
+
 
 
 
